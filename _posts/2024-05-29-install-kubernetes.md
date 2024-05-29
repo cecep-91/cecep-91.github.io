@@ -18,6 +18,6 @@ tags: [setup,kubernetes,ubuntu]
 ## Example code block
 
 
-```bash
+```text
 apt install ruby
 ```
